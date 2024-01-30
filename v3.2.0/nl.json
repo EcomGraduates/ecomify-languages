@@ -257,6 +257,10 @@
     "gift_wrap": {
       "title": "Cadeauverpakking toevoegen",
       "label_html": "Verpak de producten in uw winkelwagen als cadeau voor slechts <b>{{ price }}</b>"
+    },
+    "min_order": {
+      "goal_not_archived": "Je hebt nog steeds niet het minimale bestelbedrag bereikt. Voeg [amount] toe om door te gaan.",
+      "goal_archived": "Het minimale bestelbedrag is bereikt. U kunt doorgaan met afrekenen."
     }
   },
   "blogs": {
